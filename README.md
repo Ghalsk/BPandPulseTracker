@@ -5,8 +5,11 @@ A simple, modern Blood Pressure Tracker to log, view, and analyze blood pressure
 Features
 
 Track Blood Pressure: Log systolic and diastolic readings along with pulse rate.
+
 Activity Logging: Add notes about what you were doing at the time of measurement.
+
 Graphical Analysis: Visualize blood pressure and pulse trends over time.
+
 Dark Mode UI: A clean and modern interface with dark mode aesthetics.
 
 
