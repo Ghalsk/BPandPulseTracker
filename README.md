@@ -2,7 +2,7 @@
 
 A simple, modern Blood Pressure Tracker to log, view, and analyze blood pressure readings over time.
 
-**Features**
+## **Features**
 
 Track Blood Pressure: Log systolic and diastolic readings along with pulse rate.
 
@@ -13,14 +13,14 @@ Graphical Analysis: Visualize blood pressure and pulse trends over time.
 Dark Mode UI: A clean and modern interface with dark mode aesthetics.
 
 
-**Installation**
+## **Installation**
 
 Download the latest release from the Releases page.
 
 Run BP Tracker.exe.
 
 
-**Usage**
+## **Usage**
 
 Open the application.
 
@@ -33,7 +33,7 @@ Switch to the Graphs & Trends tab to visualize your recorded data.
 Double click a cell to edit the value and then click Save All Edits to save all edits in one click.
 
 
-**License**
+## **License**
 
 This software is licensed under a Custom License:
 
