@@ -45,6 +45,6 @@ Any unauthorized distribution or alteration of this software may result in legal
 
 For further inquiries regarding licensing, contact the original author.
 
-© 2025 Ghalsk. All rights reserved.
+### © 2025 Ghalsk. All rights reserved.
 
 
