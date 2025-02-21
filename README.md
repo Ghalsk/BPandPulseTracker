@@ -45,6 +45,10 @@ Any unauthorized distribution or alteration of this software may result in legal
 
 For further inquiries regarding licensing, contact the original author.
 
+## **Disclaimer**
+
+This software is intended for personal tracking purposes only and does not provide medical advice. It is not a substitute for professional healthcare services. Always consult a qualified healthcare provider before making medical decisions based on the data recorded in this application. The author is not responsible for any health-related issues or decisions made using this software.
+
 ### © 2025 Ghalsk. All rights reserved.
 
 
