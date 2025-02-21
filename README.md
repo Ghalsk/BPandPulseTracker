@@ -12,6 +12,10 @@ Graphical Analysis: Visualize blood pressure and pulse trends over time.
 
 Dark Mode UI: A clean and modern interface with dark mode aesthetics.
 
+Averages: Calculates averages for Daily, Weekly, Monthly, Yearly and All Time.
+
+Help Page: A page for useful numbers and links for UK, USA, Canada, Australia and Global.
+
 
 ## **Installation**
 
