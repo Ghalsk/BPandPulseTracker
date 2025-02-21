@@ -21,7 +21,7 @@ Help Page: A page for useful medical numbers and links for UK, USA, Canada, Aust
 
 Download the latest release from the Releases page.
 
-Run BP Tracker.exe.
+Run BP Tracker VX-X.exe (where X-X is the version number).
 
 
 ## **Usage**
